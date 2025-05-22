@@ -772,8 +772,8 @@ main {
 
 .testimonial-quote {
     position: absolute;
-    top: 1.5rem;
-    left: 1.5rem;
+    top: 0.5rem;
+    left: 1.0rem;
     font-size: 2rem;
     color: rgba(218, 165, 32, 0.3);
 }
@@ -781,7 +781,7 @@ main {
 .testimonial-text {
     font-size: 1.1rem;
     line-height: 1.8;
-    margin-bottom: 2rem;
+    margin-bottom: 1.2rem;
     font-style: italic;
     color: #f0f0f0;
 }
