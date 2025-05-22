@@ -1438,7 +1438,7 @@ footer {
     /* CORREÇÃO: Ajustado para celulares pequenos */
     .testimonial-card {
         width: 90%; /* Em celulares pequenos, ocupa quase toda a largura */
-        padding: 1.5rem;
+        padding: 2.0rem;
         min-width: 220px;
     }
     
