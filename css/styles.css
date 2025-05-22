@@ -1087,6 +1087,7 @@ footer {
 
 .footer-logo {
     width: 120px;
+    margin: 0 auto;
     margin-bottom: 1.5rem;
     filter: drop-shadow(0 0 10px rgba(218, 165, 32, 0.5));
 }
